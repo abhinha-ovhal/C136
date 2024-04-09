@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading1{
+    margin-top: 0;
+    font-size: 20px;
+}
+
+.heading2{
+    color: black;
+    margin-top: 0;
+    font-size: 14px;
+}
+
+.heading{
+    width: 100%;
+}
+
+canvas{
+    border: white ridge 5px;
+    border-radius: 10px;
+    box-shadow: 9px 7px 7px gray;
+}
+
+#object_name{
+    width: 30%;
+    border-radius: 5px;
+    border-color: white;
+}
